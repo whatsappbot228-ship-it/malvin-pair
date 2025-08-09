@@ -72,7 +72,7 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "malvin~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, MALVIN-XD User!* 👋🏻
+                        let desc = `*Hey there, scorpion-XD User!* 👋🏻
 
 Thanks for using *SCORPION-MD* — your session has been successfully created!
 
@@ -86,8 +86,8 @@ Join our official WhatsApp Channel:
 https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
 
 *💻 Source Code:*  
-Fork & explore the project on GitHub:  
-https://github.com/XdKing2/SCORPION-MD
+Fork & explore the project on GitHub: 
+https://github.com/whatsappbot228-ship-it/SCORPION_XD
 
 ——————
 
