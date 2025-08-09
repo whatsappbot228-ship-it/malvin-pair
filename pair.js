@@ -92,7 +92,7 @@ https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/SCORPION-MD
+https://github.com/whatsappbot228-ship-it/SCORPION_XD
 
 ——————
 
@@ -102,7 +102,7 @@ Stay cool and hack smart. ✌🏻`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
+title: "scorpion-xᴅ",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
 mediaType: 1,
